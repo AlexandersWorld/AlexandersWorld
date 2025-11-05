@@ -45,7 +45,7 @@ A **Game Developer** and a gamer who loves to build and create **responsive**, *
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandersworld&layout=compact&theme=blue-green&title_color=00b3ff)](#)
 
-[![Alexandre Pereira's current streak](https://github-readme-streak-stats.herokuapp.com?user=alexandersworld&theme=blue-green)](#)
+![Alexandre Pereira's current streak](https://streak-stats.demolab.com?user=alexandersworld&count_private=true&theme=blue-green)
 
 </div>
 
