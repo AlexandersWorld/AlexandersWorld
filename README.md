@@ -1,32 +1,56 @@
 # Hi... I'm Alexandre Pereira <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A **Game Developer** and a gamer who loves to build and create **responsive**, **accessible** and **inclusive** digital products and experiences for users worldwide.
+A **Game Developer** and a gamer who loves to build and create **responsive**, **accessible**, and **inclusive** digital products and experiences for users worldwide.
 
-- Open to project collaborations
-- You can reach me through: <a href="https://blacksheepstudios.netlify.app/" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:alexandresg19@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/5571982220370" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/dev-alexandre-pereira/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
-- **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+- 🚀 Open to project collaborations  
+- 📫 You can reach me through:
 
-[- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]: :
+  <a href="https://blacksheepstudios.netlify.app/" title="Portfolio">
+    <img alt="Website" src="https://img.shields.io/badge/Website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/>
+  </a>
+  <a href="mailto:alexandresg19@gmail.com" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
+  </a>
+  <a href="https://wa.me/5571982220370" title="WhatsApp">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dev-alexandre-pereira/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" align="center"/>
+  </a>
+
+- 🤝 **NOTE:** You can **fork** and **contribute** to any of my projects!  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects
 
-1.  [Who's that Pokemon] (Engine: Godot) (https://blacksheep1337.itch.io/whos-that-pokemon/)
-2.  [Chaos Kitchen] (Engine: Unity) (https://blacksheep1337.itch.io/kitchen-chaos-code-monkey/)
-3.  [Felpudo's plane] (Engine: Unity) (https://play.unity.com/en/games/981b2d14-daa5-4287-b04e-c34fd2c11ac1/felpudo-vs-uruca/)
+1. 🎮 [Who's That Pokémon? (Engine: Godot)](https://blacksheep1337.itch.io/whos-that-pokemon/)
+2. 👨‍🍳 [Chaos Kitchen (Engine: Unity)](https://blacksheep1337.itch.io/kitchen-chaos-code-monkey/)
+3. ✈️ [Felpudo's Plane (Engine: Unity)](https://play.unity.com/en/games/981b2d14-daa5-4287-b04e-c34fd2c11ac1/felpudo-vs-uruca/)
 
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=unreal,unity,godot,html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
+---
 
-[![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=alexandersworld&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats**
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandersworld&layout=compact&theme=blue-green&title_color=00b3ff)](#)
+<div align="center">
+
+[![Alexandre's GitHub stats](https://bad-apple-github-readme.vercel.app/api?username=alexandersworld&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandersworld&layout=compact&theme=blue-green&title_color=00b3ff)](#)
 
 [![Alexandre Pereira's current streak](https://streak-stats.demolab.com/?user=alexandersworld&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+</div>
+
+---
+
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
