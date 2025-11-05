@@ -41,11 +41,11 @@ A **Game Developer** and a gamer who loves to build and create **responsive**, *
 
 <div align="center">
 
-[![Alexandre's GitHub stats](https://bad-apple-github-readme.vercel.app/api?username=alexandersworld&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandersworld&show_icons=true&count_private=true&theme=blue-green)](#)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandersworld&layout=compact&theme=blue-green&title_color=00b3ff)](#)
 
-[![Alexandre Pereira's current streak](https://streak-stats.demolab.com/?user=alexandersworld&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Alexandre Pereira's current streak](https://streak-stats.demolab.com?user=alexandersworld&count_private=true&theme=blue-green)](#)
 
 </div>
 
