@@ -1,6 +1,35 @@
-# Hi... I'm Alexandre Pereira <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+## 👋 Hey there!
 
-A **Game Developer** and a gamer who loves to build and create **responsive**, **accessible**, and **inclusive** digital products and experiences for users worldwide.
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
+class GameDeveloper {
+public:
+    std::string name;
+    std::string role;
+    std::vector<std::string> programmingLanguages;
+    std::vector<std::string> languagesSpoken;
+
+    GameDeveloper()
+        : name("Alexandre Pereira"),
+          role("Game Developer"),
+          programmingLanguages({"C++", "C#", "JavaScript"}),
+          languagesSpoken({"pt_BR", "en_US"}) {}
+
+    void sayHi() const {
+        std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
+    }
+};
+
+int main() {
+    GameDeveloper me;
+    me.sayHi();
+    return 0;
+}
+```
+
 
 - 🚀 Open to project collaborations  
 - 📫 You can reach me through:
